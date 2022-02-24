@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to the Parliament concerning the poor that there may not be a beggar in England.</title>
+            <author>Lawson, Thomas, 1630-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49807</idno>
+            <idno type="STC">Wing L722</idno>
+            <idno type="STC">ESTC R36243</idno>
+            <idno type="EEBO-CITATION">15620404</idno>
+            <idno type="OCLC">ocm 15620404</idno>
+            <idno type="VID">104214</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49807)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104214)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1151:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to the Parliament concerning the poor that there may not be a beggar in England.</title>
+                  <author>Lawson, Thomas, 1630-1691.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: T.L.</note>
+                  <note>Attributed by Wing to Thomas Lawson.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor --  England --  Early works to 1800.</term>
+               <term>Public welfare --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104214:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 55 -->
+            <head>AN APPEAL TO THE PARLIAMENT, CONCERNING THE POOR, That there may not be a Beggar in England.</head>
+            <p>IN the midſt of many and great Undertakings, let not a Settle<g ref="char:EOLhyphen"/>ment for the <hi>Poor</hi> be forgotten, but revive, ad, and execute all wholſome Lawes, and encourage all good Means, to Supply Poor People with Labour and Relief, and ſo prevent the ill Breeding, wicked Life, and bad End that many Thouſands have fallen into through Idleneſs; To this End, give Order that the enſuing <hi>Plat-form</hi> may be fully executed: Although this thing be warrantable, yet if there be not an abſolute Neceſſity laid on them (whom it doth concern) to Execute their Office, this VVork may fail and come to little or nothing, notwithſtanding the Means may be ſufficient; but if Carried on as it ought, the Cure is certain, no Beggar in <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>The</hi> Plat-form, <hi>or Way how Poor People may be Supplyed with Labour, and Relief.</hi>
+            </p>
+            <p>EVery Pariſh, according to the various Places and Employ<g ref="char:EOLhyphen"/>ments, and as their Poor are encreaſed, agree with ſome Able Man, or Men, that rightly underſtandeth their VVork, that may Undertake, and by the Pariſh be Aſſiſted;</p>
+            <pb n="2" facs="tcp:104214:2"/>
+            <!-- PDF PAGE 56 -->
+            <p n="1">I. To take Notice how many <hi>Old, Impotent,</hi> and <hi>young Children</hi> be in the Pariſh, and Supply them by Collection; and alſo Help ſuch whoſe Labour is not ſufficient to yield them Main<g ref="char:EOLhyphen"/>tenance: But if any in the Pariſh want Employment, that are able to work, ſet them to work according to the wholſome Laws of the Nation.</p>
+            <p n="2">II. To take the moſt Orderly way for the manner of doing, according to the variety of Places, and kinds of work; If there be Twenty Perſons in a Country Village that want employment, then the Pariſh agree with ſome Clothier, Stuff, or Stockin<g ref="char:EOLhyphen"/>maker to furniſh them with ſo much VVork as they can do: So in great Towns, and places of Cloathing, one Clothier take 10, another 20, being brought in by Authority; for though there may be work enough, yet the Idle will not come for it; to have work, and want Government, is as if they wanted work; ſome Pariſhes have Means enough, and yet the Poor want VVork, Food, and Government.</p>
+            <p>So in great Cities, where is much Trading on Silk, VVooll, Hair, VVinding, VVeaving, Button-making, &amp;c. every Pariſh, or Diviſion, agree with ſome Trades-man, or men, to provide for 10 or 20 as aforeſaid, and ſo may riſe to Hundreds or Thouſands by the ſame Rule: So in Pariſhes where the Poor are much en<g ref="char:EOLhyphen"/>creaſed, and have no Trade, or where ſome great Trade is wholly decayed, there ſome other is to be ſought for with diſcretion: In Pariſhes where are no Poor, their Accompt is ſoon given, and they fit to help others: Some near <hi>London,</hi> ſaid, They had not a Beggar dwelling in their Pariſh, and yet have had 30 Travelling Beggars in one week.</p>
+            <p n="3">III. To ſettle a Poor mans Office, <hi>Firſt,</hi> Where <hi>Handy-crafts-men</hi> and <hi>Labourers</hi> that want VVork, and ſuch as want Workmen, may enquire: <hi>Secondly,</hi> Where <hi>Boyes</hi> that would, or are fit to go Apprentice, may enquire of Maſters; and ſuch as want Servants in City or Countrey, or whom they have ſpoken to, may enquire: <hi>Thirdly,</hi> Where <hi>Maids</hi> that would, or are fit to go Apprentices, or Covenant-Servants, or ſome that want ſuch, may enquire; But none to be put to Service until they be firſt Taught to Spin, Knit, Sew, learn ſome Trade, or way of livelihood; who elſe are neither fit for Service, nor can in after<g ref="char:EOLhyphen"/>times
+<pb n="3" facs="tcp:104214:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 56 -->do any thing for themſelves, <hi>Fourthly,</hi> Where all Poor People that are in diſtreſs or danger of Periſhing, may make their Conditions known, that Means may be uſed to Supply their wants.</p>
+            <p n="4">IV. That all Perſons whatſoever, may have free Acceſs and Acceptance without molleſtation, to give in true Information con<g ref="char:EOLhyphen"/>cerning any neglect of the Poor to any in Authority, Juſtice of the Peace, or any in Power, as there may be cauſe; and that every one that neglecteth his Duty, reſtore to the Poor ſo much as they have done them wrong; and that Diſtreſs be made if they refuſe to Pay preſently.</p>
+            <p n="5">V. That all Judges of Aſſizes and Seſſions, lay open the ſad condition of the Poor in their Charge, and what the Law pro<g ref="char:EOLhyphen"/>vides, and take Accompt what is done; and receive all true In<g ref="char:EOLhyphen"/>formations concerning any Neglect of the Poor, and ſee the Pe<g ref="char:EOLhyphen"/>nalty juſtly executed: The Law is made for the Lawleſſe and Diſ<g ref="char:EOLhyphen"/>obedient.</p>
+            <p n="6">VI. That no Poor People be denied their former Liberty, nor ſtrict Courſe taken againſt them, until ſome good Means be uſed to Supply their wants.</p>
+            <p>Much might be added concerning the Means how there may be Work enough; how to Order things to the beſt advantage in Cities, Towns and Villages; how to take a Liſt, or the juſt Numbers in great Cities, Out-ſtreets and Alleys, Tenants, In-Tenants and In-mates, where may be many Periſh, many idle hard to be found, and ſettled in Order; how to encounter with the great Charge this may amount unto: But honeſt Labour and good Government, may ſave the Rich from Charge, and the Poor from Hunger. And to ſpeak to Particulars, may be more ſeaſon<g ref="char:EOLhyphen"/>able when this work is come into practiſe; and more ſutable to the divers Places, Perſons, and various kinds of Trading: If any Object the Trouble: To have ſuch Multitudes of Beggars in this fruitful Kingdom, Is not that trouble? To hear them cry and not give, is not that trouble? To hear their cry, and give, is trouble alſo; not knowing whether it doth good or harm: But if every Pariſh keep to their own, the Condition of the Poor may be known: I have Conſidered of Cities, Towns and Vil<g ref="char:EOLhyphen"/>lages, but no Place have I found where this <hi>Plat-form</hi> may not be
+<pb n="4" facs="tcp:104214:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 57 -->ſuteable, with little or no alteration; although it be ſhort, it concludes enough to effect the work, and with little trouble or charge in compariſon of ſome Propoſals concerning the Poor, and being faithfully executed, there may not be a Beggar in <hi>England,</hi> which is the deſire and hope of one that hath no intention of evil to any, but wiſheth the good of all, who, having been many years exerciſed among the Poor, and much deſired their good, and through long Experience have ſeen the ground of their Miſery, the eaſineſſe of the Remedy, and the benefit.</p>
+            <closer>
+               <signed>T. L.</signed>
+            </closer>
+            <postscript>
+               <head>POST-SCRIPT.</head>
+               <p>THis Work of Charity doth not concern Parliament men, and Officers for the Poor only, but all other in Authority to ex<g ref="char:EOLhyphen"/>erciſe their Power in their Reſpective Places for the General good: And all not in authority alſo; Rich men to encourage it every way, being beſt able; and the Middle Sort do their endeavour, leſt they like ſmall Iron Creeppers in a Chimney, who bear the bur<g ref="char:EOLhyphen"/>den and heat of the Fire, until they be waſted to Sinders; and the Poor to avoid Idleneſs, which is oftentimes the Cauſe of Beg<g ref="char:EOLhyphen"/>ging; and hearken to the Counſel of the Wiſe man, <hi>Eccleſiaſti<g ref="char:EOLhyphen"/>cus 40.</hi> My Son, lead not a Beggars life, for better it is to die then to beg, <hi>verſe 28.</hi> The life of him that dependeth on another mans Table, is not to be accounted a life, <hi>verſe 29.</hi> Begging is ſweet in the Mouth of the ſhameleſs, but in their Belly there burns a fire, <hi>verſe 30.</hi> That this Plat-form, or ſome other, may be put in Practice when the Dayes lengthen is likely, becauſe of the Neceſſity, and cannot ſafely with good Conſcience be wholly omitted: But that all joyn in the Execution there lieth the ſtreſs; many good Things have been began, but men being ſelfiſh, care<g ref="char:EOLhyphen"/>leſs and unconſtant, the Work hath failed: I have in ſome mea<g ref="char:EOLhyphen"/>ſure unloaded my own Conſcience in this thing, and laid it before others, that all might be clear from the Cry of the Poor; But he that ſtoppeth his Ears at the Cry of the Poor, he alſo ſhall Cry and not be heard.</p>
+               <p>
+                  <hi>T. L.</hi>
+               </p>
+            </postscript>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Wilſon,</hi> at the <hi>Black-ſpread-Eagle</hi> and <hi>Windmill,</hi> in <hi>Martins Le Grand,</hi> 1660.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
